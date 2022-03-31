@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design patterns.iml" filepath="$PROJECT_DIR$/Design patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Concepts/Encapsulation.iml" filepath="$PROJECT_DIR$/OOP_Concepts/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Momento/Momento.iml" filepath="$PROJECT_DIR$/Momento/Momento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Concepts/OOP_Concepts.iml" filepath="$PROJECT_DIR$/OOP_Concepts/OOP_Concepts.iml" />
     </modules>
   </component>
 </project>
