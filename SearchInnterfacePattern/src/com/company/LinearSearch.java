@@ -8,8 +8,7 @@ public class LinearSearch<T extends Comparable<T>> implements Search<T>{
 
         for(int i = 0; i <= array.length - 1; i++){
             if(target == array[i]){
-                indexOfElement = i;
-                return indexOfElement;
+                return i;
             }
         }
         return -1;

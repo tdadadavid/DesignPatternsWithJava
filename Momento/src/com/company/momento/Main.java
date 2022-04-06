@@ -1,7 +1,4 @@
-package com.company;
-
-import com.company.momento.Editor;
-import com.company.momento.History;
+package com.company.momento;
 
 public class Main {
     public static void main(String[] args){
@@ -22,10 +19,10 @@ public class Main {
         history.push(editor.createState());
 
         editor.setContents("My LinkedIn handle is David (Oloruntofumi) Dada.");
-        history.push(editor.createState());
+//        history.push(editor.createState());
 
-        editor.undo(history.pop());
-        editor.undo(history.pop());
+//        editor.undo(history.pop());
+//        editor.undo(history.pop());
 
         System.out.println(editor.getContents());
     }

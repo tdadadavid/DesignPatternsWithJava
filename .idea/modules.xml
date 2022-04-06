@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_Concepts/Encapsulation.iml" filepath="$PROJECT_DIR$/OOP_Concepts/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Momento/Momento.iml" filepath="$PROJECT_DIR$/Momento/Momento.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Concepts/OOP_Concepts.iml" filepath="$PROJECT_DIR$/OOP_Concepts/OOP_Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/Test.iml" filepath="$PROJECT_DIR$/factory/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
     </modules>
   </component>
 </project>
