@@ -7,5 +7,7 @@ public class Demo {
         TransactionController transactionController = new TransactionController();
         transactionController.debit();
 
+
+        // you can use an interface or an abstract method
     }
 }
