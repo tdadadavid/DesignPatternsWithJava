@@ -1,11 +1,12 @@
 package LoggingSystem;
 
 import LoggingSystem.ConsoleLogger.ConsoleLogger;
+import LoggingSystem.DatabaseLogger.DBLogger;
 import LoggingSystem.FileLogger.FileLogger;
 
 import java.io.IOException;
 
-public class TransactionController extends FileLogger {
+public class TransactionController extends DBLogger {
     public void debit() throws IOException {
         // check if the amount requested is
         // greater than the amount in account
